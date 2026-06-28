@@ -45,9 +45,3 @@ Open to Software Engineer, AI Engineer, Machine Learning Engineer, and Prompt En
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoebbagwan&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
