@@ -1,1 +1,64 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"></stop>
+      <stop offset="100%" stop-color="#161B22"></stop>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"></stop>
+      <stop offset="100%" stop-color="#1F6FEB"></stop>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="640" fill="url(#bg)"></rect>
+
+  <!-- Decorative Circles -->
+  <circle cx="980" cy="150" r="8" fill="#58A6FF"></circle>
+  <circle cx="1080" cy="220" r="8" fill="#58A6FF"></circle>
+  <circle cx="1180" cy="120" r="8" fill="#58A6FF"></circle>
+  <circle cx="1030" cy="340" r="8" fill="#58A6FF"></circle>
+  <circle cx="1170" cy="430" r="8" fill="#58A6FF"></circle>
+
+  <!-- Lines -->
+  <line x1="980" y1="150" x2="1080" y2="220" stroke="#58A6FF" stroke-width="2"></line>
+  <line x1="1080" y1="220" x2="1180" y2="120" stroke="#58A6FF" stroke-width="2"></line>
+  <line x1="1080" y1="220" x2="1030" y2="340" stroke="#58A6FF" stroke-width="2"></line>
+  <line x1="1030" y1="340" x2="1170" y2="430" stroke="#58A6FF" stroke-width="2"></line>
+
+  <!-- Small Code Symbol -->
+  <text x="1120" y="560" font-size="42" fill="#58A6FF" font-family="Consolas">&lt;/&gt;</text>
+
+  <!-- Left Side -->
+  <text x="90" y="140" font-size="34" fill="#8B949E" font-family="Segoe UI">👋 Hello, I'm</text>
+
+  <text x="90" y="235" font-size="64" font-weight="700" fill="#FFFFFF" font-family="Segoe UI" filter="url(#glow)">
+      SHOEB BAGWAN
+  </text>
+
+  <text x="90" y="295" font-size="28" fill="#58A6FF" font-family="Segoe UI">
+      Software Engineer • AI Engineer • ML Engineer
+  </text>
+
+  <text x="90" y="360" font-size="26" fill="#F0F6FC" font-family="Segoe UI">
+      Transforming Ideas into Intelligent Solutions
+  </text>
+
+  <!-- Bottom Line -->
+  <line x1="90" y1="500" x2="700" y2="500" stroke="url(#line)" stroke-width="5" stroke-linecap="round"></line>
+
+  <text x="90" y="545" font-size="24" fill="#8B949E" font-family="Segoe UI">
+      Generative AI • RAG • Machine Learning • Software Engineering
+  </text>
+
+</svg>
