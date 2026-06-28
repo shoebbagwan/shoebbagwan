@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Shoeb Bagwan Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shoeb Bagwan</h1>
 
 <h3 align="center">Software Engineer | AI & Machine Learning | Python Developer</h3>
