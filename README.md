@@ -42,12 +42,12 @@ Open to Software Engineer, AI Engineer, Machine Learning Engineer, and Prompt En
   <img src="https://img.shields.io/badge/Vector_Database-008080?style=for-the-badge"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoebbagwan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoebbagwan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoebbagwan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="50%" />
 </p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
