@@ -12,8 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.E. Computer Science (AI & ML) — Graduated 2026, Mumbai
-- 🧠 Focused on: RAG systems, NLP, Speech Emotion Recognition & ML applications
+- 🎓 Computer Science (AI & ML) — 2026, Mumbai
 - 💼 Internship experience in AI/ML at Internship Studio
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shoeb-bagwan-75b15537b/)
 
