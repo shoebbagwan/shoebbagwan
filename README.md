@@ -37,3 +37,28 @@ Open to Software Engineer, AI Engineer, Machine Learning Engineer, and Prompt En
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vector_Database-008080?style=for-the-badge"/>
 </p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shoebbagwan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoebbagwan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shoebbagwan&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shoebbagwan&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
