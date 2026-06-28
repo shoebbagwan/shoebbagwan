@@ -49,3 +49,10 @@ Open to Software Engineer, AI Engineer, Machine Learning Engineer, and Prompt En
 </p>
 
 ---
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoebbagwan/shoebbagwan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoebbagwan/shoebbagwan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shoebbagwan/shoebbagwan/output/github-contribution-grid-snake.svg">
+</picture>
