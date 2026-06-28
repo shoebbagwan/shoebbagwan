@@ -10,17 +10,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;RAG+%7C+NLP+%7C+Speech+Processing;FastAPI+%7C+LangChain+%7C+Scikit-Learn;Python+Developer" alt="Typing SVG" />
 </p>
 
----
-
 ## 👨‍💻 About Me
 
-- 🎓 B.E. Computer Science (AI & ML) — Class of 2026, Mumbai
+- 🎓 B.E. Computer Science (AI & ML) — Graduated 2026, Mumbai
 - 🧠 Focused on: RAG systems, NLP, Speech Emotion Recognition & ML applications
-- 💼 6 months internship experience in AI/ML at Internship Studio
-- 🎯 Targeting roles: Junior ML Engineer | AI Engineer | NLP Engineer | Data Scientist
+- 💼 Internship experience in AI/ML at Internship Studio
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shoeb-bagwan-75b15537b/)
-
----
 
 ## 🛠️ Tech Stack
 
