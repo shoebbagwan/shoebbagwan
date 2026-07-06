@@ -45,21 +45,7 @@
 | [Vocal Metrics — SER](https://github.com/shoebbagwan/vocal-metrics-SER) | Detects 8 human emotions from raw audio waveforms — operates on sound physics, not text | PyTorch, FastAPI, React |
 | [AttireAI](https://github.com/shoebbagwan/ai-cloth-recommender) | Personal AI style advisor that recommends outfits based on body type, weather & occasion | React, FastAPI, Scikit-learn, SQLite |
 
----
 
-## 📊 Most Used Languages
-
-<p align="center">
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoebbagwan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="50%" 
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shoebbagwan&theme=tokyonight&hide_border=true&cache_seconds=1800" width="50%" />
-</p>
-
----
 
 ## 🐍 My Contributions
 
