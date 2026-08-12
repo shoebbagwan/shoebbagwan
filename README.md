@@ -15,6 +15,7 @@
 - 🎓 Computer Science (AI & ML) — 2026, Mumbai
 - 💼 Internship experience in AI/ML at Internship Studio
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shoeb-bagwan-75b15537b/)
+-  View my Portfolio here = (https://shoeb-portfolio-tau.vercel.app/)
 
 ## 🛠️ Tech Stack
 
