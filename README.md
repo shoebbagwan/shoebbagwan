@@ -43,12 +43,3 @@
 | [Vocal Metrics — SER](https://github.com/shoebbagwan/vocal-metrics-SER) | Detects 8 human emotions from raw audio waveforms — operates on sound physics, not text | PyTorch, FastAPI, React |
 | [AttireAI](https://github.com/shoebbagwan/ai-cloth-recommender) | Personal AI style advisor that recommends outfits based on body type, weather & occasion | React, FastAPI, Scikit-learn, SQLite |
 
-
-
-## 🐍 My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoebbagwan/shoebbagwan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoebbagwan/shoebbagwan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shoebbagwan/shoebbagwan/output/github-contribution-grid-snake.svg">
-</picture>
